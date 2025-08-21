@@ -1,10 +1,20 @@
-<h1>Juego de Amigo Secreto</h1>
+# 🎁 Juego Amigo Secreto
 
-Un juego simple en JavaScript donde los usuarios pueden ingresar nombres
-y hacer un sorteo aleatorio para asignar amigos secretos.
+Mini aplicación en JavaScript para sortear un amigo secreto.  
+Deploy en **GitHub Pages**.
 
-<h2>Funcionalidades</h2>
+## 🌐 Demo
+[Probar juego en GitHub Pages](https://alex17dev.github.io/Amigo-Secreto)
 
-- Agregar nombres de amigos.
-- Mostrar la lista de amigos.
-- Sortear un amigo secreto aleatorio.
+## ⚒️ Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+## ▶️ Uso
+1. Agregá nombres en el formulario.  
+2. Presioná **“Sortear”**.  
+3. El juego mostrará el resultado al instante.  
+
+## 📸 Capturas
+<img width="1086" height="810" alt="Captura de pantalla (12)" src="https://github.com/user-attachments/assets/9faf920d-a023-42bb-8fe3-c71f8578d8c5" />
